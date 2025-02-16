@@ -7,7 +7,7 @@ const About = lazy(() => import("./Components/About"));
 const Projects = lazy(() => import("./Components/Projects/Projects"));
 const Experience = lazy(() => import("./Components/Experience/Experience"));
 const Contact = lazy(() => import("./Components/Contact"));
-const Blog = lazy(() => import("./Components/Blog"));
+
 
 import Navigation from "./Components/Navigation";
 import Loader from "./Components/Loader";
