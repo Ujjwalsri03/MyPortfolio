@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Mypic from "../assets/Ujjawal.png";
+import Mypic from "../assets/ujjawal.png";
 import { Button } from "@material-tailwind/react";
 import { Link } from "react-router-dom";
 import { FaUserTie } from "react-icons/fa";
